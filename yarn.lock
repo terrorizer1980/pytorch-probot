@@ -663,10 +663,10 @@
   dependencies:
     debug "^4.0.0"
 
-"@probot/serverless-lambda@^0.3.0":
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/@probot/serverless-lambda/-/serverless-lambda-0.3.0.tgz#08c6699b2b7dd501094adb902230eb0b2e8b49c7"
-  integrity sha512-fJmZwuCs0Z0G4L0ZI/e5WROb8z355Y9VUUHyDeDcH46DEbHa5HFrw8Ulx3DoWz7iYO36dNXOkjA6E+aik6yRLw==
+"@probot/serverless-lambda@^0.5.3":
+  version "0.5.3"
+  resolved "https://registry.yarnpkg.com/@probot/serverless-lambda/-/serverless-lambda-0.5.3.tgz#45f74ec6d6a85c5e063176e91f4d6d5030893f77"
+  integrity sha512-lTDkzC7BzQUVE5glkUyAkpff56yVNErEjYWrTakmFiXmzFpnWsO8ZS4CiOaBhWiceQXx3FOW1S5TyP1PKPkVKg==
 
 "@sindresorhus/is@^0.14.0":
   version "0.14.0"
